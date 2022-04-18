@@ -2,7 +2,7 @@
 
 body {
     min-height: 100vh;
-    min-width: 100hw;
+    
     width: 100%;
     height: 100%;
     margin: 0;
@@ -45,7 +45,7 @@ body {
     top: 350%;
     width: 100%;
     text-align: center;
-    word-wrap: wrap;
+    
     color: seashell;
     font-family: Oswald, sans-serif;
     font-size: 20px;
@@ -72,7 +72,7 @@ body {
   
   #location-par {
     text-align: left;
-    word-wrap: wrap;
+   
   }
   
   /* Used article tag to customize the text alignment */
@@ -93,7 +93,7 @@ body {
   .about-para {
     text-align: center;
     font-size: 18px;
-    word-wrap: wrap;
+    
   }
   /* Nav Bar */
   #gray-bar {
@@ -166,7 +166,7 @@ body {
   section {
     width: 1300px;
     height: 400px;
-    position: bottom;
+  
   }
   
   #slideshow {
@@ -182,7 +182,7 @@ body {
     position: absolute;
     margin-left: 150%;
     width: 600px;
-    height: 400px;
+    height: 350px;
     top: 0; left: 0; 
     opacity: 0.0;
   }
